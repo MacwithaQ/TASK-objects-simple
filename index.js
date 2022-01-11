@@ -13,6 +13,32 @@
 
 // add the movies variables here ....
 
+const movie1 = {
+  id: 1,
+  name: "Django",
+  image:
+    "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+  rating: 8,
+};
+
+const movie2 = {
+  id: 2,
+  name: "Dont Look Up",
+  image:
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfTeV7wQoKq7qI_2noWRFKfzFwGmxnmElmXnv0fpoO7u0KYSv",
+  rating: 9,
+};
+
+const movie3 = {
+  id: 3,
+  name: "IT",
+  image:
+    "https://m.media-amazon.com/images/M/MV5BYjg1YTRkNzQtODgyYi00MTQ5LThiMDYtNDJjMWRjNTdjZDZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  rating: 10,
+};
+
+console.log([movie1, movie2, movie3]);
+
 /** Task 2:
  * Create an array `movies`
  * Add to it the movies that you created on top.
@@ -29,6 +55,30 @@
  *    },
  * ]
  */
+
+const movies = [
+  {
+    id: 1,
+    name: "Django",
+    image:
+      "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    rating: 8,
+  },
+  {
+    id: 2,
+    name: "Dont Look Up",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfTeV7wQoKq7qI_2noWRFKfzFwGmxnmElmXnv0fpoO7u0KYSv",
+    rating: 9,
+  },
+  {
+    id: 3,
+    name: "IT",
+    image:
+      "https://m.media-amazon.com/images/M/MV5BYjg1YTRkNzQtODgyYi00MTQ5LThiMDYtNDJjMWRjNTdjZDZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    rating: 10,
+  },
+];
 
 /** TASK 3:
  * Create a new file call it `movies.json`

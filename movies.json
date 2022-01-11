@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Django",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+      "rating": 8
+    },
+    {
+      "id": 2,
+      "name": "Dont Look Up",
+      "image":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfTeV7wQoKq7qI_2noWRFKfzFwGmxnmElmXnv0fpoO7u0KYSv",
+      "rating": 9
+    },
+    {
+      "id": 3,
+      "name": "IT",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BYjg1YTRkNzQtODgyYi00MTQ5LThiMDYtNDJjMWRjNTdjZDZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "rating": 10
+    }
+  ]
